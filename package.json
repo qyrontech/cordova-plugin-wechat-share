@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-wechat",
+  "name": "cordova-plugin-wechat-share",
   "version": "2.1.0",
   "description": "A cordova plugin, a JS version of Wechat SDK",
   "cordova": {
-    "id": "cordova-plugin-wechat",
+    "id": "cordova-plugin-wechat-share",
     "platforms": [
       "ios",
       "android"
